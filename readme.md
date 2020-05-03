@@ -1,5 +1,5 @@
 # 麻雀のメンバーをいい感じに分けるやつ
-
+![スクリーンショット](https://raw.githubusercontent.com/kousokujin/janshi_Separate/master/img/img.png)
 ## 使い方
 左側に参加するメンバーの名前を入力して分けるボタンを押すだけ。
 
@@ -10,6 +10,8 @@
 
 Seed値は数字でも文字でもいけます。
 
+## ダウンロード
+[ダウンロード](https://github.com/kousokujin/janshi_Separate/releases/tag/1.0.0.0)
 ## License
 Copyright (c) 2020 kousokujin.
 
